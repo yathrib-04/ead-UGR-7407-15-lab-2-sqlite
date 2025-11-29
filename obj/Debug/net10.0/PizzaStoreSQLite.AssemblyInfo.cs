@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizzaStoreSQLite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be6441c2df2f42716fd48a890c270d0313146990")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b6cf4803467819796f828c0acc1cf7f5848eaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizzaStoreSQLite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizzaStoreSQLite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
